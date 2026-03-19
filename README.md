@@ -10,11 +10,9 @@
 
 <p align="left">My name is Agustín,  i'm studying the career of Electrical engineering and currently i'm in a  Master program of data science at University of Chile.</p>
 
-###
+---
 
-<br clear="both">
-
-<h2 align="left">Some info</h2>
+<h2 align="left">⚡ Some info</h2>
 
 ###
 
@@ -66,22 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My works :</h3>
-
-
-###
-
-<div align="center">
-  <a target="_blank" href="https://github.com/awastinatus/Autoencoder-reconstructor-clasificador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awastinatus&repo=Autoencoder-reconstructor-clasificador&theme=dark" alt="Proyecto Autoencoder" />
-  </a>
-  <a target="_blank" href="https://github.com/awastinatus/Ciencia-do-Carrinho">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=awastinatus&repo=Ciencia-do-Carrinho&theme=dark" alt="Proyecto Ciencia do Carrinho" />
-  </a>
 </div>
 
 ###
